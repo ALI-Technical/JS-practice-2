@@ -1,0 +1,47 @@
+body{
+    background-image: url(https://media4.giphy.com/media/2tNvsKkc0qFdNhJmKk/giphy.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.JS-Assignment{
+    text-align: center;
+    font-family: monospace;
+}
+#color-div{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Change-Img{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.img-div{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+}
+.btns-div-2{
+    padding: 2em;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+}
+.Bulb-Img{
+    padding: 2em;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+}
+.Para-div{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
